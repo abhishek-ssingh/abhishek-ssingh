@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhishek-ssingh
 - 👀 I’m interested in Java Full Stack Devlopment and Android Dev
-- 🌱 I’m currently learning Java and Spring framework.
+- 🌱 I’m currently learning Java and Spring Boot.
 - 💞️ I’m looking to collaborate on interesting Java Backend work.
 - 📫 How to reach me @as400217@gmail.com
 
