@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-ssingh&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-ssingh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek-ssingh" alt="abhishek-ssingh" /></a> </p>
+
 
 - 🔭 I’m currently working on [Blogging Application](https://github.com/abhishek-ssingh/blog_app_apis)
 
