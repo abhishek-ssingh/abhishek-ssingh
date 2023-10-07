@@ -2,7 +2,7 @@
 <h1 align="center">Hola👋, I'm Abhishek Singh</h1>
 
 # 💫 About Me:
-🔭 I’m currently working on Microservices<br>🌱 I’m currently learning Java, Spring Boot, Spring, Python, MongoDb, Netflix Eureka, Mysql, Javascript, React<br>👯 I’m looking to collaborate on Interesting Backend Projects<br>🤝 I’m looking for help with Backend<br>💬 Ask me about Microservices, Scaling, Backend<br>📫 How to reach me as400217@gmail.com<br>📄 Know about my experience https://drive.google.com/file/d/1Bb9i_Y1_iK5Wr2apKq4c1QRc7WYUJaoj/view?usp=sharing<br>⚡ Fun fact Nani?
+🔭 I’m currently working on Microservices<br>🌱 I’m currently learning Java, Spring Boot, Spring, Python, MongoDb, Netflix Eureka, Mysql, Javascript, React<br>👯 I’m looking to collaborate on Interesting Backend Projects<br>⚡ Fun fact Nani?
 
 
 ## 🌐 Socials:
